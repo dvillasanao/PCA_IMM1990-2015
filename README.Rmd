@@ -74,6 +74,10 @@ Para mejorar la comparabilidad y precisión del índice de marginación, se han 
 - **Documentación:** Descripción detallada de la metodología utilizada y los cambios implementados para 2020. [Nota técnica](https://www.gob.mx/cms/uploads/attachment/file/634902/Nota_t_cnica_marginaci_n_2020.pdf).    
 - **Scripts:** Códigos y scripts utilizados para el análisis y la estimación del índice de marginación.
 
+## Código de Conducta
+
+Por favor, revisa nuestro [Código de Conducta](CODE_OF_CONDUCT.md) antes de contribuir.
+
 ## Autor
 
 Este proyecto es desarrollado y mantenido por @dvillasanao

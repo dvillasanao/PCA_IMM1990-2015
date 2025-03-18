@@ -100,6 +100,11 @@ han implementado varios cambios metodológicos en el año 2020:
 - **Scripts:** Códigos y scripts utilizados para el análisis y la
   estimación del índice de marginación.
 
+## Código de Conducta
+
+Por favor, revisa nuestro [Código de Conducta](CODE_OF_CONDUCT.md) antes
+de contribuir.
+
 ## Autor
 
 Este proyecto es desarrollado y mantenido por @dvillasanao
