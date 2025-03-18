@@ -8,7 +8,14 @@
 
 Este repositorio contiene archivos y documentación relacionados con el
 índice de marginación estimado por el Consejo Nacional de Población
-(CONAPO) para los años 1990, 1995, 2000, 2005, 2010 y 2015.
+(CONAPO) para los años 1990, 1995, 2000, 2005, 2010 y 2015 utilizando
+Análisis de Componentes Principales (`PCA`).
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+<img src="Output/Biplot 2015.png" width="50%" style="margin: 1px;">
+
+</div>
 
 ## Descripción General
 
@@ -56,6 +63,12 @@ Componentes Principales (ACP). Sin embargo, los resultados no son
 comparables en el tiempo debido a la variabilidad de los datos y mejoras
 en la calidad de vida, lo que afecta la correlación entre las variables
 originales.
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+
+<img src="Output/Correlaciones 1990 - 2015.png" width="70%" style="margin: 1px;">
+
+</div>
 
 ## Cambios Metodológicos para 2020
 
